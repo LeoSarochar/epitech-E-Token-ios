@@ -1,0 +1,6 @@
+framework module Pods_e_Token_e_TokenUITests {
+  umbrella header "Pods-e-Token-e-TokenUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
